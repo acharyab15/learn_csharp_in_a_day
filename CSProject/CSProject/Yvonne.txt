@@ -1,0 +1,10 @@
+PAYSLIP FOR 12 -1
+===============================
+Name of Staff: Yvonne
+Hours Worked: 12
+
+Basic Pay: $600.00
+Allowance: 1000
+
+Total Pay: 600
+===============================

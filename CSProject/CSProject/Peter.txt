@@ -1,0 +1,10 @@
+PAYSLIP FOR 12 -1
+===============================
+Name of Staff: Peter
+Hours Worked: 5
+
+Basic Pay: $250.00
+Allowance: 1000
+
+Total Pay: 250
+===============================

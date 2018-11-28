@@ -1,0 +1,11 @@
+/Users/acharyab/Projects/CSProject/CSProject/obj/Debug/netcoreapp2.1/CSProject.csprojAssemblyReference.cache
+/Users/acharyab/Projects/CSProject/CSProject/obj/Debug/netcoreapp2.1/CSProject.csproj.CoreCompileInputs.cache
+/Users/acharyab/Projects/CSProject/CSProject/obj/Debug/netcoreapp2.1/CSProject.AssemblyInfoInputs.cache
+/Users/acharyab/Projects/CSProject/CSProject/obj/Debug/netcoreapp2.1/CSProject.AssemblyInfo.cs
+/Users/acharyab/Projects/CSProject/CSProject/bin/Debug/netcoreapp2.1/CSProject.deps.json
+/Users/acharyab/Projects/CSProject/CSProject/bin/Debug/netcoreapp2.1/CSProject.runtimeconfig.json
+/Users/acharyab/Projects/CSProject/CSProject/bin/Debug/netcoreapp2.1/CSProject.runtimeconfig.dev.json
+/Users/acharyab/Projects/CSProject/CSProject/bin/Debug/netcoreapp2.1/CSProject.dll
+/Users/acharyab/Projects/CSProject/CSProject/bin/Debug/netcoreapp2.1/CSProject.pdb
+/Users/acharyab/Projects/CSProject/CSProject/obj/Debug/netcoreapp2.1/CSProject.dll
+/Users/acharyab/Projects/CSProject/CSProject/obj/Debug/netcoreapp2.1/CSProject.pdb
