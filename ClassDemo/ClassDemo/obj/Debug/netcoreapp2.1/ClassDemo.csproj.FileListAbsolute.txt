@@ -1,0 +1,11 @@
+/Users/acharyab/Projects/ClassDemo/ClassDemo/bin/Debug/netcoreapp2.1/ClassDemo.deps.json
+/Users/acharyab/Projects/ClassDemo/ClassDemo/bin/Debug/netcoreapp2.1/ClassDemo.runtimeconfig.json
+/Users/acharyab/Projects/ClassDemo/ClassDemo/bin/Debug/netcoreapp2.1/ClassDemo.runtimeconfig.dev.json
+/Users/acharyab/Projects/ClassDemo/ClassDemo/bin/Debug/netcoreapp2.1/ClassDemo.dll
+/Users/acharyab/Projects/ClassDemo/ClassDemo/bin/Debug/netcoreapp2.1/ClassDemo.pdb
+/Users/acharyab/Projects/ClassDemo/ClassDemo/obj/Debug/netcoreapp2.1/ClassDemo.csprojAssemblyReference.cache
+/Users/acharyab/Projects/ClassDemo/ClassDemo/obj/Debug/netcoreapp2.1/ClassDemo.csproj.CoreCompileInputs.cache
+/Users/acharyab/Projects/ClassDemo/ClassDemo/obj/Debug/netcoreapp2.1/ClassDemo.AssemblyInfoInputs.cache
+/Users/acharyab/Projects/ClassDemo/ClassDemo/obj/Debug/netcoreapp2.1/ClassDemo.AssemblyInfo.cs
+/Users/acharyab/Projects/ClassDemo/ClassDemo/obj/Debug/netcoreapp2.1/ClassDemo.dll
+/Users/acharyab/Projects/ClassDemo/ClassDemo/obj/Debug/netcoreapp2.1/ClassDemo.pdb
