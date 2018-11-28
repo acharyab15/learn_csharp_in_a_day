@@ -1,0 +1,11 @@
+/Users/acharyab/Projects/InterfaceDemo/InterfaceDemo/bin/Debug/netcoreapp2.1/InterfaceDemo.deps.json
+/Users/acharyab/Projects/InterfaceDemo/InterfaceDemo/bin/Debug/netcoreapp2.1/InterfaceDemo.runtimeconfig.json
+/Users/acharyab/Projects/InterfaceDemo/InterfaceDemo/bin/Debug/netcoreapp2.1/InterfaceDemo.runtimeconfig.dev.json
+/Users/acharyab/Projects/InterfaceDemo/InterfaceDemo/bin/Debug/netcoreapp2.1/InterfaceDemo.dll
+/Users/acharyab/Projects/InterfaceDemo/InterfaceDemo/bin/Debug/netcoreapp2.1/InterfaceDemo.pdb
+/Users/acharyab/Projects/InterfaceDemo/InterfaceDemo/obj/Debug/netcoreapp2.1/InterfaceDemo.csprojAssemblyReference.cache
+/Users/acharyab/Projects/InterfaceDemo/InterfaceDemo/obj/Debug/netcoreapp2.1/InterfaceDemo.csproj.CoreCompileInputs.cache
+/Users/acharyab/Projects/InterfaceDemo/InterfaceDemo/obj/Debug/netcoreapp2.1/InterfaceDemo.AssemblyInfoInputs.cache
+/Users/acharyab/Projects/InterfaceDemo/InterfaceDemo/obj/Debug/netcoreapp2.1/InterfaceDemo.AssemblyInfo.cs
+/Users/acharyab/Projects/InterfaceDemo/InterfaceDemo/obj/Debug/netcoreapp2.1/InterfaceDemo.dll
+/Users/acharyab/Projects/InterfaceDemo/InterfaceDemo/obj/Debug/netcoreapp2.1/InterfaceDemo.pdb

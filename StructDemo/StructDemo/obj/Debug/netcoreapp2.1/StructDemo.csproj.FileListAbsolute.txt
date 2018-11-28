@@ -1,0 +1,11 @@
+/Users/acharyab/Projects/StructDemo/StructDemo/bin/Debug/netcoreapp2.1/StructDemo.deps.json
+/Users/acharyab/Projects/StructDemo/StructDemo/bin/Debug/netcoreapp2.1/StructDemo.runtimeconfig.json
+/Users/acharyab/Projects/StructDemo/StructDemo/bin/Debug/netcoreapp2.1/StructDemo.runtimeconfig.dev.json
+/Users/acharyab/Projects/StructDemo/StructDemo/bin/Debug/netcoreapp2.1/StructDemo.dll
+/Users/acharyab/Projects/StructDemo/StructDemo/bin/Debug/netcoreapp2.1/StructDemo.pdb
+/Users/acharyab/Projects/StructDemo/StructDemo/obj/Debug/netcoreapp2.1/StructDemo.csprojAssemblyReference.cache
+/Users/acharyab/Projects/StructDemo/StructDemo/obj/Debug/netcoreapp2.1/StructDemo.csproj.CoreCompileInputs.cache
+/Users/acharyab/Projects/StructDemo/StructDemo/obj/Debug/netcoreapp2.1/StructDemo.AssemblyInfoInputs.cache
+/Users/acharyab/Projects/StructDemo/StructDemo/obj/Debug/netcoreapp2.1/StructDemo.AssemblyInfo.cs
+/Users/acharyab/Projects/StructDemo/StructDemo/obj/Debug/netcoreapp2.1/StructDemo.dll
+/Users/acharyab/Projects/StructDemo/StructDemo/obj/Debug/netcoreapp2.1/StructDemo.pdb
