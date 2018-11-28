@@ -1,0 +1,11 @@
+/Users/acharyab/Projects/HelloWorldAgain/HelloWorldAgain/bin/Debug/netcoreapp2.1/HelloWorldAgain.deps.json
+/Users/acharyab/Projects/HelloWorldAgain/HelloWorldAgain/bin/Debug/netcoreapp2.1/HelloWorldAgain.runtimeconfig.json
+/Users/acharyab/Projects/HelloWorldAgain/HelloWorldAgain/bin/Debug/netcoreapp2.1/HelloWorldAgain.runtimeconfig.dev.json
+/Users/acharyab/Projects/HelloWorldAgain/HelloWorldAgain/bin/Debug/netcoreapp2.1/HelloWorldAgain.dll
+/Users/acharyab/Projects/HelloWorldAgain/HelloWorldAgain/bin/Debug/netcoreapp2.1/HelloWorldAgain.pdb
+/Users/acharyab/Projects/HelloWorldAgain/HelloWorldAgain/obj/Debug/netcoreapp2.1/HelloWorldAgain.csprojAssemblyReference.cache
+/Users/acharyab/Projects/HelloWorldAgain/HelloWorldAgain/obj/Debug/netcoreapp2.1/HelloWorldAgain.csproj.CoreCompileInputs.cache
+/Users/acharyab/Projects/HelloWorldAgain/HelloWorldAgain/obj/Debug/netcoreapp2.1/HelloWorldAgain.AssemblyInfoInputs.cache
+/Users/acharyab/Projects/HelloWorldAgain/HelloWorldAgain/obj/Debug/netcoreapp2.1/HelloWorldAgain.AssemblyInfo.cs
+/Users/acharyab/Projects/HelloWorldAgain/HelloWorldAgain/obj/Debug/netcoreapp2.1/HelloWorldAgain.dll
+/Users/acharyab/Projects/HelloWorldAgain/HelloWorldAgain/obj/Debug/netcoreapp2.1/HelloWorldAgain.pdb
