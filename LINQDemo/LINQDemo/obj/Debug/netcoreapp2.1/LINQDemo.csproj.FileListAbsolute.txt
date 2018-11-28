@@ -1,0 +1,11 @@
+/Users/acharyab/Projects/LINQDemo/LINQDemo/obj/Debug/netcoreapp2.1/LINQDemo.csprojAssemblyReference.cache
+/Users/acharyab/Projects/LINQDemo/LINQDemo/obj/Debug/netcoreapp2.1/LINQDemo.csproj.CoreCompileInputs.cache
+/Users/acharyab/Projects/LINQDemo/LINQDemo/obj/Debug/netcoreapp2.1/LINQDemo.AssemblyInfoInputs.cache
+/Users/acharyab/Projects/LINQDemo/LINQDemo/obj/Debug/netcoreapp2.1/LINQDemo.AssemblyInfo.cs
+/Users/acharyab/Projects/LINQDemo/LINQDemo/bin/Debug/netcoreapp2.1/LINQDemo.deps.json
+/Users/acharyab/Projects/LINQDemo/LINQDemo/bin/Debug/netcoreapp2.1/LINQDemo.runtimeconfig.json
+/Users/acharyab/Projects/LINQDemo/LINQDemo/bin/Debug/netcoreapp2.1/LINQDemo.runtimeconfig.dev.json
+/Users/acharyab/Projects/LINQDemo/LINQDemo/bin/Debug/netcoreapp2.1/LINQDemo.dll
+/Users/acharyab/Projects/LINQDemo/LINQDemo/bin/Debug/netcoreapp2.1/LINQDemo.pdb
+/Users/acharyab/Projects/LINQDemo/LINQDemo/obj/Debug/netcoreapp2.1/LINQDemo.dll
+/Users/acharyab/Projects/LINQDemo/LINQDemo/obj/Debug/netcoreapp2.1/LINQDemo.pdb
