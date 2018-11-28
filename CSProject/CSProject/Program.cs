@@ -98,7 +98,7 @@ namespace CSProject
     class Admin : Staff
     {
         private const float overtimeRate = 15.5f;
-        private const float adminHourlyRate = 30;
+        private const float adminHourlyRate = 30f;
 
         public float Overtime
         {
@@ -143,7 +143,7 @@ namespace CSProject
                 {
                     while (!sr.EndOfStream)
                     {
-                        result = sr.ReadLine().Split(separator, StringSplitOptions.None);
+                        result = sr.ReadLine().Split(separator, StringSplitOptions.RemoveEmptyEntries);
                         if (result[1] == "Manager")
                             myStaff.Add(new Manager(result[0]));
                         else if (result[1] == "Admin")
@@ -152,7 +152,7 @@ namespace CSProject
                     sr.Close();
                 }
             } else {
-                Console.WriteLine("File does not exist");
+                Console.WriteLine("Error: File does not exist");
             }
 
             return myStaff;
@@ -164,7 +164,7 @@ namespace CSProject
         private int month;
         private int year;
 
-        enum MonthsOfYear { JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC }
+        enum MonthsOfYear { JAN=1, FEB=2, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC }
 
         public PaySlip(int payMonth, int payYear) 
         {
@@ -219,7 +219,7 @@ namespace CSProject
 
         public override string ToString() 
         {
-            return "Payslip: ";
+            return "month = " + month + "year = " + year;
         }
 
     }
@@ -239,9 +239,9 @@ namespace CSProject
                 {
                     year = Convert.ToInt32(Console.ReadLine());
                 }
-                catch (FormatException)
+                catch (Exception e)
                 {
-                    Console.WriteLine("Invalid value for year");
+                    Console.WriteLine(e.Message + " Invalid value for year");
                 }
             }
 
@@ -256,9 +256,9 @@ namespace CSProject
                         month = 0;
                     }
                 }
-                catch (FormatException)
+                catch (Exception e)
                 {
-                    Console.WriteLine("Invalid value for month");
+                    Console.WriteLine(e.Message + " Invalid value for month");
                 }
             }
 
